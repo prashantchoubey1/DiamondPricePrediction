@@ -1,0 +1,17 @@
+[2024-02-04 14:17:07,148] 96 werkzeug - WARNING -  * Debugger is active!
+[2024-02-04 14:17:07,191] 96 werkzeug - INFO -  * Debugger PIN: 275-290-236
+[2024-02-04 14:17:17,773] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:17:17] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:17:20,682] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:17:20] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:17:22,437] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:17:22] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-02-04 14:17:35,145] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:17:35] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:17:36,403] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:17:36] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:17:38,455] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:17:38] "[33mGET /form.html HTTP/1.1[0m" 404 -
+[2024-02-04 14:17:57,939] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:17:57] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:38:21,054] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:38:21] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:38:25,364] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:38:25] "[33mGET /PREDICT HTTP/1.1[0m" 404 -
+[2024-02-04 14:45:57,961] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:45:57] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:46:00,688] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:46:00] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:46:07,640] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:46:07] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:46:08,468] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:46:08] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:46:10,012] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:46:10] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-02-04 14:47:23,756] 96 werkzeug - INFO -  * Detected change in '/Users/prashantchoubey/Documents/Workspace/DiamondPricePrediction/application.py', reloading

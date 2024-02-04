@@ -1,0 +1,13 @@
+[2024-02-04 14:01:29,415] 96 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[2024-02-04 14:01:29,416] 96 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2024-02-04 14:03:57,366] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:03:57] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:03:57,413] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:03:57] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+[2024-02-04 14:03:57,419] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:03:57] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+[2024-02-04 14:03:57,486] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:03:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-02-04 14:04:00,659] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:04:00] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:04:02,660] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:04:02] "GET / HTTP/1.1" 200 -
+[2024-02-04 14:04:05,397] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:04:05] "[33mGET /prediction HTTP/1.1[0m" 404 -
+[2024-02-04 14:04:31,751] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:04:31] "[33mGET /predict HTTP/1.1[0m" 404 -
+[2024-02-04 14:05:22,424] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:05:22] "[33mGET /predict_datapoint HTTP/1.1[0m" 404 -
+[2024-02-04 14:09:42,313] 96 werkzeug - INFO - 127.0.0.1 - - [04/Feb/2024 14:09:42] "[33mGET /predict_datapoint HTTP/1.1[0m" 404 -
